@@ -5,8 +5,8 @@
 
 ## 🚀 About Me
 
-- 💻 I’m a **React Developer** specializing in frontend development
-- 🌱 I’m currently learning **TypeScript, GraphQL**
+- 💻 I’m a **Full Stack Developer** specializing in frontend development
+- 🌱 I’m currently learning **System design, python**
 - 💬 Ask me about **React, JavaScript, Next.js, Tailwind CSS**
 - 📫 How to reach me **animeshshuvro.com**
 - ⚡ Fun fact: **I love music & open-source!** ☕
